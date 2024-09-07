@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @REDonkey
-- 👀 I’m interested in 3D printing and ...
+- 👀 I’m interested in 3D printing and DEV
 - 🌱 I’m currently learning Python
 
 <!---
